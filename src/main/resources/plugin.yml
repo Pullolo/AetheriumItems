@@ -1,0 +1,9 @@
+name: AetheriumItems
+version: '0.1'
+main: net.pullolo.aetheriumItems.AetheriumItems
+api-version: '1.21'
+authors: [ Pullolo ]
+commands:
+  items:
+    usage: /<command>
+    description: Open an item forging menu
